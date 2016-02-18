@@ -1,6 +1,6 @@
 {
   "name": "vine-info",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "description": "Library for fetching Vine video metadata",
   "main": "src/index.js",
   "scripts": {
