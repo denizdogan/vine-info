@@ -5,11 +5,11 @@ JavaScript library for getting video metadata from Vine.
 ## Example
 
 ```javascript
-	import info from 'vine-info';
+import info from 'vine-info';
 
-	info('in0W1K9d9KH').then(data => {
-		console.log(data.author.name);
-	});
+info('in0W1K9d9KH').then(data => {
+	console.log(data.author.name);
+});
 ```
 
 ### Typical content
