@@ -21,6 +21,7 @@
   },
   "dependencies": {
     "is-url": "^1.2.1",
-    "request-promise": "^2.0.1"
+    "request-promise": "^2.0.1",
+    "when": "^3.7.7"
   }
 }
